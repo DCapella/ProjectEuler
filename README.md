@@ -1,8 +1,5 @@
-# Project Euler
-Mathematical problems that I am using Python to solve.
+# Python Practice
+Problems that I am using Python to solve.
 
 # Author
 - David Capella
-
-# Acknowledgments
-[Project Euler](https://projecteuler.net/)
